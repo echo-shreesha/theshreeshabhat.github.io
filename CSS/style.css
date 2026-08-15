@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(186, 133, 255, 0.568);
+    background-color: #dcb9ff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 2rem;
 }
@@ -17,7 +17,7 @@ img{
 
 
 footer{
-    background-color: rgb(166, 255, 154);
+    background-color: #b9fff5;
     font-size: 0.8rem;
 }
 
