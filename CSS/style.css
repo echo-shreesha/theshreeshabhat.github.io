@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(186, 133, 255, 0.568);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2rem;
+}
+
+h1{
+    text-align: center;
+}
+
+
+footer{
+    background-color: rgb(166, 255, 154);
+    font-size: 0.8rem;
+}
+
+section{
+    margin-block: 11rem;
+}
