@@ -8,6 +8,13 @@ h1{
     text-align: center;
 }
 
+img{
+    height: 15rem;
+    width: auto;
+    object-fit: contain;
+    margin: 1rem;
+}
+
 
 footer{
     background-color: rgb(166, 255, 154);
@@ -15,5 +22,5 @@ footer{
 }
 
 section{
-    margin-block: 11rem;
+    margin-block: 2rem;
 }
